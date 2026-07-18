@@ -1,0 +1,11 @@
+{
+  "name": "ux-psychology",
+  "description": "21 evidence-based UX psychology principles for building interfaces. Persuasion: smart defaults, goal gradient, reciprocity, IKEA effect, loss aversion, anchoring. Interaction laws: Fitts, Hick, Jakob, Miller, Tesler, Doherty, Postel, Pareto. Perception: Gestalt, Von Restorff, serial position, peak-end, Zeigarnik, aesthetic-usability, banner blindness. Plus Nielsen's 10 heuristics, perceived performance (skeletons, optimistic UI, labor illusion), form microcopy, trust patterns, and a review checklist. Every principle includes guardrails separating honest persuasion from dark patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Valdis"
+  },
+  "license": "MIT",
+  "keywords": ["ux", "psychology", "design", "conversion", "onboarding", "pricing", "forms", "usability", "accessibility", "dark-patterns"],
+  "skills": ["./"]
+}

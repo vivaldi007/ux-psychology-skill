@@ -1,0 +1,35 @@
+{
+  "name": "ux-psychology-skill",
+  "owner": {
+    "name": "vivaldi007"
+  },
+  "metadata": {
+    "description": "21 evidence-based UX psychology principles — honest persuasion, interaction laws, perception, Nielsen's heuristics — applied to every interface an AI agent builds",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ux-psychology",
+      "source": "./",
+      "description": "Makes AI agents design interfaces grounded in 21 evidence-based psychology principles: smart defaults, goal gradient, reciprocity, loss aversion, anchoring, Fitts/Hick/Jakob/Miller/Tesler laws, Gestalt, peak-end, Nielsen's 10 heuristics, perceived performance, form microcopy, and trust patterns — with guardrails separating honest persuasion from dark patterns.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Valdis"
+      },
+      "keywords": [
+        "ux",
+        "psychology",
+        "design",
+        "conversion",
+        "onboarding",
+        "pricing",
+        "forms",
+        "usability",
+        "accessibility",
+        "dark-patterns"
+      ],
+      "category": "design",
+      "strict": false
+    }
+  ]
+}
