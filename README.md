@@ -2,7 +2,7 @@
 
 > An [Agent Skill](https://agentskills.io) that makes AI coding agents design interfaces the way great product designers do — grounded in 21 evidence-based psychology principles, with a hard line drawn between honest persuasion and dark patterns.
 
-[![skills.sh](https://skills.sh/b/vivaldi007/ux-psychology-skill)](https://skills.sh/vivaldi007/ux-psychology-skill)
+[![Install with skills CLI](https://img.shields.io/badge/skills.sh-npx_skills_add_vivaldi007%2Fux--psychology--skill-black)](https://skills.sh/vivaldi007/ux-psychology-skill)
 [![Agent Skills](https://img.shields.io/badge/Agent_Skills-compatible-blue)](https://agentskills.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
